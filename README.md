@@ -16,7 +16,7 @@ __Via your terminal__
 Paste the following line in your terminal and press enter. 
 
 ```
-composer require davidhoeck/laravel-jsonmapper
+composer require prestaedit/laravel-jsonmapper
 ```
 
 __Via your composer.json file__ 
@@ -24,7 +24,7 @@ __Via your composer.json file__
 Add the following line to your ```composer.json``` at the "require" section.
 
 ```
-"davidhoeck/laravel-jsonmapper" : "^1.0.0"
+"prestaedit/laravel-jsonmapper" : "^1.0.0"
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-    "name": "davidhoeck/laravel-jsonmapper",
+    "name": "prestaedit/laravel-jsonmapper",
     "description": "Map JSON Responses to PHP Models",
     "type": "library",
     "license": "OSL3.0",
